@@ -1,0 +1,56 @@
+GIMP Palette
+Name: GoFish
+Columns: 8
+#
+ 27  18  20	Outline #1B1214
+ 42  21  25	Ink #2A1519
+ 35  27  24	Board inside #231B18
+ 28  20  17	Wood seam #1C1411
+ 36  25  21	Wood dark #241915
+ 47  32  28	Wood #2F201C
+ 59  41  34	Wood light #3B2922
+ 51  33  27	Rail dark #33211B
+ 74  48  38	Rail #4A3026
+ 94  62  48	Rail light #5E3E30
+ 30  34  25	Felt shadow #1E2219
+ 35  40  29	Felt dark #23281D
+ 43  49  35	Felt #2B3123
+ 51  58  41	Felt light #333A29
+110  56  67	Rose dark #6E3843
+143  77  87	Rose #8F4D57
+168  99 109	Rose light #A8636D
+168 150 140	Button side #A8968C
+201 183 173	Cream shade #C9B7AD
+238 224 215	Cream #EEE0D7
+163  51  61	Card red #A3333D
+163 126  44	Gold shade #A37E2C
+217 174  69	Gold #D9AE45
+232 199 106	Gold light #E8C76A
+ 47  70  71	Teal dark #2F4647
+ 51  75  77	Portrait bg dark #334B4D
+ 62  90  92	Teal #3E5A5C
+ 78 112 114	Teal light #4E7072
+138  79  69	Mouth #8A4F45
+176 125  94	Skin shade #B07D5E
+216 162 127	Skin #D8A27F
+ 74  47  53	Bot 1 bg dark #4A2F35
+ 90  58  64	Bot 1 bg #5A3A40
+122  37  48	Bot 1 hat shade #7A2530
+138  90  61	Bot 1 skin shade #8A5A3D
+168 113  79	Bot 1 skin #A8714F
+ 60  64  47	Bot 2 bg dark #3C402F
+ 74  79  58	Bot 2 bg #4A4F3A
+ 35  44  71	Bot 2 coat shade #232C47
+ 46  58  92	Bot 2 coat #2E3A5C
+191 139 107	Bot 2 skin shade #BF8B6B
+227 176 142	Bot 2 skin #E3B08E
+184 176 168	Bot 2 beard #B8B0A8
+ 47  42  64	Bot 3 bg dark #2F2A40
+ 59  53  80	Bot 3 bg #3B3550
+147  79  44	Bot 3 coat shade #934F2C
+187 106  63	Bot 3 coat #BB6A3F
+201 142 107	Bot 3 skin #C98E6B
+128 128 128	Tint grey 50 #808080
+153 153 153	Tint grey 60 #999999
+204 204 204	Tint grey 80 #CCCCCC
+255 255 255	Tint white #FFFFFF
